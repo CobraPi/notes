@@ -85,6 +85,7 @@
 ## 在线PDF转化
 
 * https://smallpdf.com/cn
+- [Practical Web Tools](https://practicalwebtools.com/) - 1,400+ free client-side tools: PDF editors & converters, file/image/audio converters, calculators. No uploads.
 
 
 ## 正则表达式
